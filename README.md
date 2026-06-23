@@ -48,7 +48,7 @@ The project helps understand how data travels through networks and introduces pa
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/yourusername/CodeAlpha_BasicNetworkSniffer.git
+git clone https://github.com/lgvidhyashree01-tech/CodeAlpha_BasicNetworkSniffer.git
 
 ### Step 2: Navigate to Project
 
