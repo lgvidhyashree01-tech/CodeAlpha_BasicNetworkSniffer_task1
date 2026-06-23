@@ -129,6 +129,6 @@ CodeAlpha_BasicNetworkSniffer
 
 ## Author
 
-Name: Your Name
+Name: L.G. vidhyashree
 
 Internship: CodeAlpha Cyber Security Internship
